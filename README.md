@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Polardm
-- 👀 I’m interested in Computer Science, Electrical engineering
-- 🌱 I’m currently learning all kinds of stuff related to my interests
+- 👋 Hi, I'm @PlamDm
+- 👀 I’m interested in Computer Science, Electrical engineering, Mathematics
 - 📫 How to reach me plam.dm37@gmail.com
-- ⚡ Fun fact: We live in an extraordinary for technology time 
-- ✨ You can learn more about expereince in my repo
 
 
 <!---
