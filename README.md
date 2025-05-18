@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @PlamDm
-- 👀 I’m interested in Computer Science, Electrical engineering, Mathematics
+- 👀 I’m interested in Computer Science, Electronics, Electrical engineering, Mathematics
 - 📫 How to reach me plam.dm37@gmail.com
 
 
